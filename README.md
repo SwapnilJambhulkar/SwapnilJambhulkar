@@ -41,7 +41,7 @@ but it's not like i do tech all the time
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/takshak-ramteke-15b840206/">
+<a href="https://www.linkedin.com/in/swapnil-jambhulkar-3756441b2">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
