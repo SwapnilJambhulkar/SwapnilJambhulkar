@@ -1,10 +1,11 @@
+
+![banner](https://github.com/SwapnilJambhulkar/SwapnilJambhulkar/assets/89395305/078a68bf-4926-4dd1-bc7f-da6110f92cc3)
 ## Hey There :wave:, I'm Swapnil Jambhulkar
 
 <!--**Here's a litle about me** <br/>
 :person_curly_hair: I'm A Fun Loving, Enthusiastic & Passionate Developer <br/>
 :factory_worker: Currently I work as a freelance fullstack developer and designer <br/>
 
-but it's not like i do tech all the time
 
 **Other than tech** <br/>
 :art: I sometimes do sketches of my favourite Anime / Manga character's <br/>
