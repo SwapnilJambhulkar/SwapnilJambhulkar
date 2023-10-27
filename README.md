@@ -1,6 +1,6 @@
 ## Hey There :wave:, I'm Swapnil Jambhulkar
 
-<!--**Here's a litle about me** <br/>
+**Here's a litle about me** <br/>
 :person_curly_hair: I'm A Fun Loving, Enthusiastic & Passionate Developer <br/>
 :factory_worker: Currently I work as a freelance fullstack developer and designer <br/>
 
