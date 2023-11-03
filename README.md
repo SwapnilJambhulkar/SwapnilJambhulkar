@@ -1,6 +1,12 @@
-
 ![banner](https://github.com/SwapnilJambhulkar/SwapnilJambhulkar/assets/89395305/078a68bf-4926-4dd1-bc7f-da6110f92cc3)
-## Hey There :wave:, I'm Swapnil Jambhulkar
+<div align="center">
+  <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=940& lines=Hello👋, I'm+Swapnil Jambhulkar+and+Welcome+to+my+Profile!" alt=" I'm Swapnil Jambhulkar and Welcome to my ProfilE! animated typed out" width="90%" align="middle"/>
+  <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
+</div>
+<a target="_blank" href="https://swapnil-jambhulkar-portfolio.vercel.app/"><img width="250" align="right" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"></a>
+
+
 
 <!--**Here's a litle about me** <br/>
 :person_curly_hair: I'm A Fun Loving, Enthusiastic & Passionate Developer <br/>
