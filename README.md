@@ -49,13 +49,5 @@ Hi there 👋🏻, My name is Swapnil Jambhulkar. I'm a passionate full-stack de
 
 
 
-<br/>
-
-### 📈 And ofcourse Some Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilJambhulkar&langs_count=8&theme=tokyonight&layout=compact"/>
-<p>
-    <img width=43.5% src="https://github-readme-stats.vercel.app/api?username=SwapnilJambhulkar&show_icons=true&theme=tokyonight" />
-    <!--<img width=46% src="" />-->
-</p>
 
 
