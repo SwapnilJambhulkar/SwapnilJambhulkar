@@ -11,10 +11,10 @@
 Hi there 👋🏻, My name is Swapnil Jambhulkar. I'm a passionate full-stack developer from Nagpur, Maharashtra 🌎. I'm a graduate Computer Science Engineer with  experience in Javascript, React, Next.js and NodeJs 👨‍🎓. I love to work with new technologies and develop web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for a better user experience 🌱. Now I am Open to Work as a Software Engineer 🚀.
 
 - 🔭 I’m currently working on Next.js,
-- 🌱 I’m currently learning GraphQL, Advanced Reactjs, ML, and AI
+- 🌱 I’m currently learning GraphQL, Advanced Reactjs, Next JS
 - 💬 Ask me about #Javascript #ReactJS #NodeJS
 - 😄 Pronouns: he/him
-- 🏋️‍♀️ Hobby: Working out at the gym is not just a hobby for me; it's a passion that keeps me energized and motivated.
+- 🏋️‍♀️ Hobby: Working out at the gym is not just a hobby for me; it's a to keeps me energized and motivated.
 
 ### 🤙 Connect with me:
 
