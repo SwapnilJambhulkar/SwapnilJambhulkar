@@ -15,7 +15,7 @@ Hi there 👋🏻, My name is Swapnil Jambhulkar. I'm a passionate full-stack de
 - 🌱 I’m currently learning ITSM, GraphQL, Advanced Reactjs, Next JS
 - 💬 Ask me about #Javascript #ReactJS #NodeJS
 - 😄 Pronouns: he/him
-- 🏋️‍♀️ Hobby: Working out at the gym is not just a hobby for me; it's a way to keeps me energized and motivated.
+- 🏋️‍♀️ Hobby: Working out at the gym is not just a hobby for me; it's a way to keep me energized and motivated.
 
 ### 🤙 Connect with me:
 
